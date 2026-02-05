@@ -1,14 +1,19 @@
-# Python Day 1 Basics 🐍
+# Hi, I'm – Divya 👩‍💻
 
-This repository contains my Python learning programs.
+🌱 Aspiring Python Full-Stack Developer  
+💻 Currently learning Python, Django & React  
+🚀 Building projects and uploading my daily practice  
 
-## Topics covered
-- Variables
-- Data types
-- Input & Output
-- Operators
-- For loop
-- if else,nested_if_else
-- Basic programs
+## 🔧 Skills I'm Learning
+- Python
+- Git & GitHub
+- SQL
+- HTML & CSS (soon)
+- Django (next)
 
-I am currently learning Python and uploading my daily practice here.
+## 🎯 Goals
+- Become Python Full-Stack Developer
+- Build real-world projects
+- Get my first developer job
+
+Thanks for visiting my profile 😊
