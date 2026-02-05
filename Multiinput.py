@@ -1,0 +1,6 @@
+name=input("Enter your name")
+age=int(input("Enter your age"))
+address=input("Enter your address")
+print(f"My name is {name}")
+print(f"My Age is {age}")
+print(f"My adsress is {address}")
