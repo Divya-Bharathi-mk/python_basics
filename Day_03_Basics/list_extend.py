@@ -1,0 +1,9 @@
+A=[11,22,33,44,55]
+B=[77,88,99,111,222]
+B.insert(0,66)
+A.append(66)
+B[4]=333
+A.pop(0)
+A.extend(B)
+print(A)
+print(B)
